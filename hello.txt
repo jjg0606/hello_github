@@ -6,3 +6,8 @@
 //Local repository modification
 //GitHub modification
 "Tell her World"
+
+import java.io.FileInputStream;
+import java.util.Scanner;
+System.setIn(new FileInputStream(""));
+Scanner sc = new Scanner(System.in);
